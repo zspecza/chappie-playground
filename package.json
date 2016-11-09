@@ -23,15 +23,15 @@
   },
   "homepage": "https://github.com/declandewet/bot#readme",
   "devDependencies": {
-    "ava": "^0.15.2",
-    "nyc": "^6.6.1",
-    "standard": "^7.1.2"
+    "ava": "^0.16.0",
+    "nyc": "^8.4.0",
+    "standard": "^8.5.0"
   },
   "dependencies": {
-    "axios": "^0.12.0",
+    "axios": "^0.15.2",
     "co": "^4.6.0",
     "flyd": "^0.2.2",
-    "ramda": "^0.21.0",
+    "ramda": "^0.22.1",
     "tcomb": "^3.2.6",
     "ws": "^1.1.1",
     "zen-observable": "^0.3.0"
