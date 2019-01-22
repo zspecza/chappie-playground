@@ -34,6 +34,6 @@
     "ramda": "^0.23.0",
     "tcomb": "^3.2.6",
     "ws": "^1.1.1",
-    "zen-observable": "^0.4.0"
+    "zen-observable": "^0.8.12"
   }
 }
